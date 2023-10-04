@@ -12,7 +12,7 @@ Supported formats:-
 
 Popularly, many websites mark up their webpages with Schema.org vocabularies for better SEO. This library helps you parse that information to JSON.
 
-This is a fork of [`indix/web-auto-extractor`](https://github.com/indix/web-auto-extractor) with additional features and commits from  [`raine`](https://github.com/raine/web-auto-extractor) and [dsherr](https://github.com/dscherr/web-auto-extractor).
+This is a fork of [`indix/web-auto-extractor`](https://github.com/indix/web-auto-extractor) with additional features and commits from  [`raine`](https://github.com/raine/web-auto-extractor) and [`dsherr`](https://github.com/dscherr/web-auto-extractor).
 
 
 **[Demo](https://tonicdev.com/npm/web-auto-extractor)** it on tonicdev
